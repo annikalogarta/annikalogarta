@@ -1,4 +1,4 @@
-### Hey, my name's Annika! 👋
+### Hi, I'm Annika! 👋
 
 I'm a Computer Engineering student at the University of Waterloo. Proficient in C++, Java, and Python. Currently dabbling in hardware! 
 
