@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student at the University of Waterloo. Proficient in C++, Java, and Python. Currently dabbling in hardware! 
 
-In my free time I love taking photos and making latte art. Feel free to reach out 😁
+In my free time I love taking photos and making latte art. Feel free to reach out at alogarta@uwaterloo.ca 😁
 <!--
 **annikalogarta/annikalogarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
