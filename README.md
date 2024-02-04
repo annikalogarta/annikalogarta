@@ -1,6 +1,6 @@
 ### Hi, I'm Annika! 👋
 
-I'm a Computer Engineering student at the University of Waterloo. Proficient in C++, Java, and Python. Currently dabbling in hardware! 
+I'm a Computer Engineering student at the University of Waterloo. Proficient in C++, Java, and Python. Currently dabbling in hardware as part of Midnight Sun. I'm interested in embedded at the moment, but I'm open to trying out anything!
 
 In my free time I love taking photos and making latte art. Feel free to reach out at alogarta@uwaterloo.ca 😁
 <!--
