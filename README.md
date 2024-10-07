@@ -1,8 +1,8 @@
 ### Hi, I'm Annika! 👋
 
-I'm a Computer Engineering student at the University of Waterloo. Proficient in C, C++, and Python. Currently dabbling in hardware as part of Midnight Sun. I'm interested in embedded at the moment, but I'm open to trying out anything!
+I'm a computer engineering student at the University of Waterloo, currently doing firmware at Untether AI. I'm interested in ASIC design, RF, and signal processing, but am open to trying out anything related to ECE.
 
-In my free time I love taking photos and making latte art. Feel free to reach out at alogarta@uwaterloo.ca 😁
+In my free time I love experimenting with photography mediums and making latte art. Feel free to reach out at alogarta@uwaterloo.ca 😁
 <!--
 **annikalogarta/annikalogarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
