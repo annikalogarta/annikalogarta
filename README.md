@@ -1,8 +1,8 @@
 ### Hi, I'm Annika! 👋
 
-I'm a computer engineering student at the University of Waterloo, currently doing firmware at Untether AI. I'm interested in ASIC design, RF, and signal processing, but am open to trying out anything related to ECE.
+I'm a computer engineering student at the University of Waterloo. I've dabbled in firmware, PCB design, and data science, and currently I'm interested in ASIC design, RF, and signal processing. Though I am open to trying out anything related to ECE!
 
-In my free time I love experimenting with photography mediums and making latte art. Feel free to reach out at alogarta@uwaterloo.ca 😁
+In my free time I love experimenting with photography mediums and making latte art. I'm actively looking for summer 2025 internships, so feel free to reach out at alogarta@uwaterloo.ca 😁
 <!--
 **annikalogarta/annikalogarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
