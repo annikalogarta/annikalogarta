@@ -1,8 +1,8 @@
 ### Hi, I'm Annika! 👋
 
-I'm a computer engineering student at the University of Waterloo. I've dabbled in firmware, PCB design, and data science, and currently I'm interested in ASIC design, RF, and signal processing. Though I am open to trying out anything related to ECE!
+I'm a computer engineering student at the University of Waterloo. This summer I'm based in the San Francisco Bay Area, working as a silicon validation intern at [Tesla](https://www.tesla.com/). In the past, I've dabbled in firmware, data science, and board design. Now, I'm currently interested in silicon, RF, and signal processing. 
 
-In my free time I love experimenting with photography mediums and making latte art. I'm actively looking for summer 2025 internships, so feel free to reach out at alogarta@uwaterloo.ca 😁
+In my free time I love experimenting with photography mediums and making latte art. If you'd like an updated copy of my resume, or just would like to chat about anything, feel free to reach out at alogarta@uwaterloo.ca 😁
 <!--
 **annikalogarta/annikalogarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
